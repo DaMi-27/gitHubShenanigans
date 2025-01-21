@@ -1,0 +1,2 @@
+I'm putting this as a remind that I nearly nuked my document folder because when I was first trying out git I had put a git in the document folder instead of a specific one. I was wondering why it kept saying untracked files
+and wanted to remove them, turns out I nearly just nuked my document folder had I not realized there was a parent git to the folder I was in.
